@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Freelance\\Back-end\\RealEstate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C71F79D-7DC4-4539-BBF4-995C403F2E11}|RealEstate\\RealEstate.csproj|d:\\freelance\\back-end\\realestate\\realestate\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C71F79D-7DC4-4539-BBF4-995C403F2E11}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractController.cs",
+              "DocumentMoniker": "D:\\Freelance\\Back-end\\RealEstate\\RealEstate\\Controllers\\ContractController.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Controllers\\ContractController.cs",
+              "ToolTip": "D:\\Freelance\\Back-end\\RealEstate\\RealEstate\\Controllers\\ContractController.cs",
+              "RelativeToolTip": "RealEstate\\Controllers\\ContractController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:12:42.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
